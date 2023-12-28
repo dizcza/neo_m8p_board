@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "NEO-M8P-Library")(type "KiCad")(uri "${KIPRJMOD}/NEO-M8P-Library.pretty")(options "")(descr ""))
+)
