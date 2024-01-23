@@ -33,3 +33,11 @@ The board serves an SMA connector for an external active antenna and a slot for 
 
 See the [gerbers](gerbers) folder.
 
+
+## Revisions
+
+### V2
+
+SMA active antenna only.
+
+![V2](images/v2.png)
